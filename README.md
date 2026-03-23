@@ -31,14 +31,6 @@ Crear una experiencia de aprendizaje:
 
 ---
 
-## Estructura del Proyecto
-/learn-loop
-│── fase1
-│── fase2
-│── fase3
-│── README.md
-
-
 ---
 
 ## Fase 1
